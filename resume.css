@@ -1,0 +1,18 @@
+*{
+    background-color:white;
+}
+.img{
+    width:"10px";
+    height:"10px";
+}
+p{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+.li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: "20px";
+}
+.link-style{
+    font-size: "50px";
+}
